@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#D17D98;
+    margin: 0%;
+    padding: 0%;
+    display: center;
+    justify-content: center;
+    align-items:flex-start;
+    height: fit-content;
+}
+
+.container{
+    background-color: #D17D98;
+    padding: 20px;
+    display: center;
+    justify-content: center;
+    border-radius: 8px;
+    box-shadow: 0 0 10px #D17D98;
+    width:500px;
+}
+button{
+    padding: 0ch;
+    border: 0cm;
+    border-radius:0ch;
+    cursor: pointer;
+    font-size: medium;
+
+}
